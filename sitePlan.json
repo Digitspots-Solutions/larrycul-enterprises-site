@@ -1,0 +1,42 @@
+{
+  "businessName": "Larrycul Enterprises",
+  "industry": "Multi-service (Fashion, POS, Food)",
+  "tone": "warm and welcoming",
+  "tagline": "Your One-Stop Shop for Fashion, Financial Services & Quality Foodstuffs in Ibadan",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Larrycul Enterprises - Where Style Meets Convenience. From bespoke fashion design and tailoring accessories to reliable POS services and fresh foodstuffs, we bring quality and convenience to your doorstep in Ibadan. Visit us today at Egbeda and experience excellence in every service.",
+      "imagePrompt": "A vibrant Nigerian marketplace storefront with colorful African print fabrics hanging alongside fresh vegetables and modern POS terminal, warm golden hour lighting, professional photography, Ibadan cityscape in background, welcoming atmosphere, sharp focus, photorealistic",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Larrycul Enterprises is Ibadan's trusted multi-service provider, proudly serving the Egbeda community and beyond. We understand the diverse needs of modern Nigerians, which is why we've created a unique business model that combines professional fashion design, secure POS agent services, premium tailoring accessories, and quality raw food and foodstuffs - all under one roof. Our commitment is simple: deliver exceptional value, maintain the highest standards of quality, and treat every customer like family. Whether you're looking to create that perfect outfit, make a quick transaction, stock your tailoring shop, or buy fresh ingredients for your home, Larrycul Enterprises is here to serve you with excellence.",
+      "imagePrompt": "A warm, inviting Nigerian business interior showing diverse products - colorful fabrics, POS machine, fresh produce baskets, friendly Nigerian entrepreneur in modern business attire, natural lighting through windows, professional retail space, Ibadan setting, photorealistic, detailed",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Fashion Design & Tailoring: Transform your style vision into reality with our expert fashion design services. From traditional Nigerian attire to contemporary styles, we create custom pieces that fit perfectly and reflect your unique personality. Our skilled designers work with you from concept to completion.\n\nPOS Agent Services: Need to make deposits, withdrawals, or transfers? Our reliable POS services ensure your financial transactions are quick, secure, and hassle-free. We serve with integrity and maintain the highest security standards for your peace of mind.\n\nTailoring Accessories: Stock your workshop with quality tailoring supplies. We offer a comprehensive range of accessories including threads, buttons, zippers, needles, measuring tools, and more. Everything the professional tailor needs at competitive prices.\n\nRaw Food & Foodstuffs: Fresh, quality ingredients for your kitchen. From grains and spices to vegetables and staples, we source and supply premium foodstuffs that bring authentic Nigerian flavors to your meals. Freshness guaranteed, affordability assured.",
+      "imagePrompt": "Four quadrant split image showing: Nigerian fashion designer measuring fabric, POS terminal processing transaction, organized display of colorful tailoring supplies, fresh Nigerian foodstuffs in woven baskets, bright professional lighting, high detail, photorealistic, modern Nigerian business aesthetic",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Experience the Larrycul difference in person. We're conveniently located in Egbeda, Ibadan, and we're ready to serve you. Whether you need fashion consultation, POS services, tailoring supplies, or fresh foodstuffs, our friendly team is here to help. Call us, visit our shop, or chat with us on WhatsApp - we're always happy to assist you.",
+      "imagePrompt": "Welcoming Nigerian business storefront with clear signage, Ibadan street scene, customers entering shop, visible address number, tropical afternoon lighting, inviting entrance, photorealistic, professional business photography, Airport Road aesthetic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07033773316",
+    "email": "info@larryculenterprises.com",
+    "address": "No 64 Oniyanrin Street, Airport Road Alakia, Egbeda, Ibadan, Nigeria",
+    "whatsapp": "https://wa.me/2347033773316"
+  }
+}
